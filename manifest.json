@@ -1,0 +1,23 @@
+   {
+    "name": "Sơn Piano",
+    "short_name": "Sơn Piano",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYczWXSp2hgSB0MkVbLGhdHnFVQduHXXYQyxgmUc1nxrUmL7G3sdKnZODB3oEG8wKefOBenPI0vAFZBTmAnLVgPKC1W9uCTE69s-vijS-CVEi2aAX_swAqZhIdJBHx0mBAfM3bSD__0W5xrST5trYIcRxT-RHpXAuLJZJK50XDWfWThAfdZbd9XzQUuwY/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkOzRcUfOrPcqTsMoPVJZtwnFsOOM_QjAxeR9sxdK-KTyJrh9X7NKnbnYvhblnQgQMAIK-ndDrFM_mYgRD1_37VFiw8SQJqZ6hrCOEspYPHpkK0x80Yruf6j_C6pgN4OuAD2nsqLi2s91MkAbOZ86NlxqIL9drAgBRA6okBbsAr-C7R1TbuD1SJbnfeZQ/s512/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://sonpiano0612.blogspot.com/"
+}
